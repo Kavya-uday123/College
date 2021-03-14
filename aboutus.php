@@ -31,7 +31,7 @@
         </div>
       </nav>
       <div class="container">
-          <div class="row" style="background:thistle">
+          <div class="row" style="background:lightgray">
               <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                 
                 <h3><center> ABOUT THE INSTITUTION</center></h3>
