@@ -81,7 +81,7 @@
 
               </div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-                <h5><center>Hill Campus Kalamassery</center></h5><br>
+                <h5>Hill Campus Kalamassery</h5><br>
                 <ul>
                 Rajagiri College of Social Sciences (Autonomous), Rajagiri P.O, Kalamassery, Cochin - 683 104, Kerala, India.<br>
                  <br>                                           
@@ -101,7 +101,7 @@ Email: rcssadmission@rajagiri.edu&nbsp;<br>
             </div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
 
-                <h5><center>Valley Campus Kakkanad</center></h5><br>
+                <h5>Valley Campus Kakkanad</h5><br>
                 <ul>
                 Rajagiri College of Social Sciences (Autonomous), Rajagiri Valley P. O, Kakkanad,Kochi - 682 039, Kerala, India.<br>
                           <br>
