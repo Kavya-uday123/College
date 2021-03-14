@@ -40,13 +40,13 @@
               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img height="600 px" class="d-block w-100" src="https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-8aab18mkr3gr4a7nef9nhcoc00-20160426060743.Medi.jpeg" alt="First slide">
+                    <img height="600 px" src="https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-8aab18mkr3gr4a7nef9nhcoc00-20160426060743.Medi.jpeg" class="d-block w-100" alt="First slide">
                   </div>
                   <div class="carousel-item active">
-                    <img height="600 px" class="d-block w-100" src="https://rajagiri.edu/uploads/image-gallery/5/LibKal1.jpg" alt="Second slide">
+                    <img height="600 px" src="https://rajagiri.edu/uploads/image-gallery/5/LibKal1.jpg" class="d-block w-100" alt="Second slide">
                   </div>
                   <div class="carousel-item">
-                    <img height="600 px" class="d-block w-100" src="https://rajagiri.edu/uploads/image-gallery/3/1.jpg" alt="Third slide">
+                    <img height="600 px" src="https://rajagiri.edu/uploads/image-gallery/3/1.jpg" class="d-block w-100" alt="Third slide">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
