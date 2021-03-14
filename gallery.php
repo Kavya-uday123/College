@@ -37,7 +37,7 @@
                 <br>
                 <div class="card-group">
                     <div class="card">
-                      <img src="https://rajagiri.edu/uploads/image-gallery/2/1.jpg" class="card-img-top" alt="...">
+                      <img height = "220 px" src="https://rajagiri.edu/uploads/image-gallery/2/1.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Classroom</h5>
                         <p class="card-text"></p>
@@ -45,7 +45,7 @@
                       
                     </div>
                     <div class="card">
-                      <img src="https://rajagiri.edu/uploads/image-gallery/3/6.jpg" class="card-img-top" alt="...">
+                      <img height = "220 px" src="https://rajagiri.edu/uploads/image-gallery/3/6.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Labs</h5>
                         <p class="card-text"></p>
